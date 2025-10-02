@@ -1,5 +1,5 @@
 Giới thiệu cá nhân:
-Tôi tên là Nguyễn Hữu Trọng.
+Xin chào, tôi là Nguyễn Hữu Trọng.
 Sinh viên ngành CNTT.
 Tôi thích học Git để quản lý dự án.
 Tôi sống tại An Giang.
