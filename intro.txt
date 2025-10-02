@@ -1,0 +1,15 @@
+Giới thiệu cá nhân:
+Tôi tên là Nguyễn Hữu Trọng.
+Sinh viên ngành CNTT.
+Tôi thích học Git để quản lý dự án.
+Tôi sống tại An Giang.
+
+Sở thích:
+- Nghe nhạc
+- Xem phim
+- Du lịch
+
+Kỹ năng:
+- Git cơ bản
+- Lập trình Python
+- Làm việc nhóm
